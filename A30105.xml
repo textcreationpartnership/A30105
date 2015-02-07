@@ -4337,128 +4337,131 @@ Christ<gap reason="illegible" resp="#APEX" extent="1 letter">
                      <p>The use of this following Table, besides the ex<g ref="char:EOLhyphen"/>hibition of the Manuall Figures of Rhetorick, may be for an Alphabet of Privie cyphers, for any kinde of Secret intimation.</p>
                      <p>To make up the <hi>Alphabet,</hi> C. D. I. Q. are taken in, out of those supernumerary Gestures, fol<g ref="char:EOLhyphen"/>lowing, under the Title of <hi>Indigitatio.</hi>
                      </p>
-                     <figure>
-                        <p>
-                           <figure>
-                              <head>A Pacificat.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>B Auditores mitigabit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>C Meotericis orditur.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>D ad monstrandu<g ref="char:cmbAbbrStroke">̄</g> valet.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>E Modus agendi.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>F Admiratur.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>G Hortatur.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>H Rationes profert.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>I Flocci facit</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>K Deprecatur</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>L Sic ostendebit seipsum.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>M Negabit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>N ꝑspicuitatem illustrat.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>O Exclamationem aptat</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>P Antithes in exornat.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>Q Argumenta digorit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>R Benovolentiam ostendit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>S Com<g ref="char:cmbAbbrStroke">̄</g>iserationem denotut.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>T Im<g ref="char:cmbAbbrStroke">̄</g>ensitatem aperit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>V Valdè aversatur.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>W Execratione repellit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>X Addubitabit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>Y Dolebit.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>Z Benedictione dimittit.</head>
-                           </figure>
-                        </p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:110295:153"/>
+                        <figure>
+                           <p>
+                              <figure>
+                                 <head>A Pacificat.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>B Auditores mitigabit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>C Meotericis orditur.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>D ad monstrandu<g ref="char:cmbAbbrStroke">̄</g> valet.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>E Modus agendi.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>F Admiratur.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>G Hortatur.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>H Rationes profert.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>I Flocci facit</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>K Deprecatur</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>L Sic ostendebit seipsum.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>M Negabit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>N ꝑspicuitatem illustrat.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>O Exclamationem aptat</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>P Antithes in exornat.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>Q Argumenta digorit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>R Benovolentiam ostendit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>S Com<g ref="char:cmbAbbrStroke">̄</g>iserationem denotut.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>T Im<g ref="char:cmbAbbrStroke">̄</g>ensitatem aperit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>V Valdè aversatur.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>W Execratione repellit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>X Addubitabit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>Y Dolebit.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>Z Benedictione dimittit.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
                   </div>
                </div>
                <div type="canons_of_manual_rhetoric">
